@@ -1,4 +1,4 @@
-# WebHamburgerMenu
+# WebHamburgerMenu1
 ハンバーガーメニューその１
 
 ## 実行結果
@@ -10,6 +10,6 @@
 | OS | Windows10 |
 | エディタ | Atom 1.24.0 |
 | ブラウザ | Google Chrome 65 |
-| ツール | FontAwesome 4.6.3 |
+| ツール | FontAwesome 5.0.10 |
 | 開発言語 | HTML5 |
 | | CSS3 |
